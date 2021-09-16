@@ -11,7 +11,7 @@ Implementied different ML models
 
 Got the highest accuracy with the Random forest model.
 
-** After submission got the score 0.78468 ** 
+**After submission got the score 0.78468** 
 
 ### About
 Titanic ML competition is a well known chalange to familiarize oneself with ML challanges.
