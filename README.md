@@ -1,4 +1,4 @@
-# -Titanic-Machine-Learning-Python
+# Titanic-Machine-Learning-Python
 
 My take on the analysis of the titanic dataset using Python. 
 
